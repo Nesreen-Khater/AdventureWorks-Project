@@ -25,7 +25,7 @@ It showcases advanced **data modeling, DAX measures, and visualization technique
 - Designed a robust **Star Schema** model connecting:
   - **Fact tables** → Sales, Production, Returns, Complaints, Downtime  
   - **Dimension tables** → Date, Product, Category, Customer, Machine, etc.
-- Created and connected a **Dim Date** table with full time intelligence support.
+- Created and connected a **Dim Date** table with full-time intelligence support.
 - Cleaned and transformed data in **Power Query**, ensuring accuracy and consistency.
 
 ---
@@ -36,6 +36,18 @@ It showcases advanced **data modeling, DAX measures, and visualization technique
   - **Cards**, **Maps**, **Bars**, **Pie**, **Gauge**, **Scatter**, **Line**, **Decomposition Tree**, and **Tables**.
 - Added **Tooltips** for detailed data context.
 - Applied **Conditional Formatting**, KPIs, and visual indicators to highlight performance and trends.
+
+  Home Page
+  ![AdventureWorks Project_page-0001](https://github.com/user-attachments/assets/70b12b6f-c07e-4cdf-8bba-5644ca23e203)
+  ----------------
+  Production Page
+  ![AdventureWorks Project_page-0006](https://github.com/user-attachments/assets/1d433142-129c-41d8-bc05-89ebd2fee63c)
+  --------------
+  Drill-Through Page
+    ------------------
+
+
+
 
 ---
 
