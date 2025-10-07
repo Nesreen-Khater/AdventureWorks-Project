@@ -36,7 +36,12 @@ It showcases advanced **data modeling, DAX measures, and visualization technique
   - **Cards**, **Maps**, **Bars**, **Pie**, **Gauge**, **Scatter**, **Line**, **Decomposition Tree**, and **Tables**.
 - Added **Tooltips** for detailed data context.
 - Applied **Conditional Formatting**, KPIs, and visual indicators to highlight performance and trends.
+  
+  ------------------------------------------
 
+  
+## Some of the report pages
+  -------------------------------------------------------------------------------------------------------------------
   Home Page
   ![AdventureWorks Project_page-0001](https://github.com/user-attachments/assets/70b12b6f-c07e-4cdf-8bba-5644ca23e203)
   ----------------
