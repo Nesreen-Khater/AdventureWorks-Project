@@ -22,8 +22,7 @@ It showcases advanced **data modeling, DAX measures, and visualization technique
 ---
 
 ## 🧠 Modeling & Structure
-- Designed a robust **Star Schema** model connecting:
-  - **Fact tables** → Sales, Production, Returns, Complaints, Downtime  
+  - **Fact tables** → Sales, Production, Returns & Complaints. 
   - **Dimension tables** → Date, Product, Category, Customer, Machine, etc.
 - Created and connected a **Dim Date** table with full-time intelligence support.
 - Cleaned and transformed data in **Power Query**, ensuring accuracy and consistency.
