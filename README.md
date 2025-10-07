@@ -44,9 +44,9 @@ It showcases advanced **data modeling, DAX measures, and visualization technique
   ![AdventureWorks Project_page-0006](https://github.com/user-attachments/assets/1d433142-129c-41d8-bc05-89ebd2fee63c)
   --------------
   Drill-Through Page
-  ![Uploading AdventureWorks Project_page-0009.jpg…]()
+  ![AdventureWorks Project_page-0009](https://github.com/user-attachments/assets/0b423e25-f6d3-461a-9f95-8dc2b7616d5e)
+  ---------------------
 
-    ------------------
 
 
 
